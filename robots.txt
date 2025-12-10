@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# TikTok API Verification
+User-agent: TikTokBot
+Allow: /
+
